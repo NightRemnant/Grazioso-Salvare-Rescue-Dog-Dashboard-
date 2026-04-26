@@ -5,7 +5,7 @@ In order to write readable and adaptable programs I used the CRUD python module,
 The dashboard code didn't need to include raw databse logic because I used methods like read() to retrieve data. not only did this make the system more readable, but this made the system more adaptable since any changes to the database structure only needs to be updated once rather than throughout the whole application. 
 
 
-3. How do I approach problems as a computer scientist? 
+2. How do I approach problems as a computer scientist? 
 When I first started to work on the GFrazioso salvare dashboard I made sure to really take the time to fully understand the requirements. After I fully had the plan in my head I broke the problem down into three sections: storage, proceessing, and UI- mirroring a system design mindset first rather than a programmer since it's more important to understand the structure and requirements first and foremost than trying to fit in logic I've already written.
 
 This is a little bit different than some of my previous assignments since usually I would in fact write isolated scripts, then I would try to fit those into a larger system.
